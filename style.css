@@ -1,3 +1,61 @@
-body{
-	background-color: yellow;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@400;700;800&family=Special+Elite&display=swap');
+
+
+body, html{
+	font-family: 'Open Sans', sans-serif;
+	padding:0;
+	margin: 0;
 }
+h1{
+
+}
+h4{
+
+}
+
+.wrapper{
+
+}
+.hero-banner{
+background-color: :#007FFF;
+height: 100vh;
+}
+
+.character1{
+
+}
+
+.character2{
+
+}
+
+.character3{
+
+}
+a.cta
+button.cta{
+
+}
+
+a.cta.alt
+button.cta.alt{
+
+}
+/* 
+
+<div class="hero-banner">
+   	<div class="wrapper">
+   		<h4>Bloom design presents</h4>
+   		<h1>The Silliest &amp;<br/>
+   		 Most Awesome <br/>
+   		In the World</h1>
+   		<h3>It's Circle Guy, Hat Guy &amp; Red Guy.<br/>
+   		They're the best of friends.</h3>
+   	<a class="cta alt" href="#more-info">Read More</button>
+   	</div>
+   	 <div class="character1"></div>
+   	 <div class="character2"></div>
+   	 <div class="character3"></div>
+  </div>
+
+   */
